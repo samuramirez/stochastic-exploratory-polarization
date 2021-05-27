@@ -1,0 +1,860 @@
+Starting main, rand seed = 1595105794
+file name dynN80gef200sim7.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 117369.670000
+Starting main, rand seed = 1595103955
+file name dynN80gef200sim2.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 130859.340000
+Starting main, rand seed = 1595103975
+file name dynN80gef200sim4.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 137446.790000
+Starting main, rand seed = 1595103986
+file name dynN80gef200sim5.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 137622.020000
+Starting main, rand seed = 1595103965
+file name dynN80gef200sim3.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 141512.790000
+Starting main, rand seed = 1595104092
+file name dynN80gef200sim6.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 145505.370000
+Starting main, rand seed = 1595103946
+file name dynN80gef200sim1.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 147858.420000
+Starting main, rand seed = 1595166823
+file name dynN80gef200sim24.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 85369.600000
+Starting main, rand seed = 1595167095
+file name dynN80gef200sim30.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 105278.700000
+Starting main, rand seed = 1595167684
+file name dynN80gef200sim36.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 118838.670000
+Starting main, rand seed = 1595166698
+file name dynN80gef200sim22.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 119991.100000
+Starting main, rand seed = 1595166075
+file name dynN80gef200sim11.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 120825.040000
+Starting main, rand seed = 1595166328
+file name dynN80gef200sim16.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 124490.940000
+Starting main, rand seed = 1595181307
+file name dynN80gef200sim42.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 112190.490000
+Starting main, rand seed = 1595167353
+file name dynN80gef200sim34.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 127891.150000
+Starting main, rand seed = 1595169166
+file name dynN80gef200sim37.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 126972.690000
+Starting main, rand seed = 1595166196
+file name dynN80gef200sim13.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 130887.310000
+Starting main, rand seed = 1595166005
+file name dynN80gef200sim9.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 131585.200000
+Starting main, rand seed = 1595169797
+file name dynN80gef200sim38.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 128448.140000
+Starting main, rand seed = 1595166206
+file name dynN80gef200sim14.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 133046.650000
+Starting main, rand seed = 1595181387
+file name dynN80gef200sim44.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 118216.210000
+Starting main, rand seed = 1595166574
+file name dynN80gef200sim20.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 134291.450000
+Starting main, rand seed = 1595166017
+file name dynN80gef200sim10.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 134890.380000
+Starting main, rand seed = 1595167343
+file name dynN80gef200sim33.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 134233.580000
+Starting main, rand seed = 1595166687
+file name dynN80gef200sim21.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 135106.890000
+Starting main, rand seed = 1595166886
+file name dynN80gef200sim25.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 136246.000000
+Starting main, rand seed = 1595166135
+file name dynN80gef200sim12.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 137445.040000
+Starting main, rand seed = 1595166451
+file name dynN80gef200sim18.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 137255.220000
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Starting main, rand seed = 1595183107
+file name dynN80gef200sim48.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 128946.280000
+Starting main, rand seed = 1595167085
+file name dynN80gef200sim29.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 145421.960000
+Starting main, rand seed = 1595181717
+file name dynN80gef200sim47.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 131997.360000
+Starting main, rand seed = 1595167214
+file name dynN80gef200sim31.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 147814.040000
+Starting main, rand seed = 1595167277
+file name dynN80gef200sim32.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 149358.220000
+Starting main, rand seed = 1595181287
+file name dynN80gef200sim40.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 135905.300000
+Starting main, rand seed = 1595181297
+file name dynN80gef200sim41.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 139010.720000
+Starting main, rand seed = 1595166390
+file name dynN80gef200sim17.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 154084.500000
+Starting main, rand seed = 1595167417
+file name dynN80gef200sim35.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 154125.990000
+Starting main, rand seed = 1595181317
+file name dynN80gef200sim43.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 141138.990000
+Starting main, rand seed = 1595197227
+file name dynN80gef200sim50.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 125414.660000
+Starting main, rand seed = 1595167022
+file name dynN80gef200sim28.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 157915.740000
+Starting main, rand seed = 1595181457
+file name dynN80gef200sim45.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 146139.780000
+Starting main, rand seed = 1595181467
+file name dynN80gef200sim46.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 146547.660000
+Starting main, rand seed = 1595184497
+file name dynN80gef200sim49.dat
+fast pf 	kmi[10]/Dtot is 0.000000
+fast complex 	kmi[9]/Dtot is 4.997751
+slow pf		kmi[4]/Dtot is 7.777778
+slow complex 	kmi[5]/Dtot is 222.222222
+basal gef 	kmi[2]/Dtot is 3.555556
+dx is 0.100000, dx/sigma = 5.000000
+ 0.100000
+10.000000
+25.464791
+0.630000
+55.704230
+1591.549431
+10.000000
+4.000000
+6.500000
+39788.735773
+0.000000
+Simulated time = 3600.000000, CPU time = 145683.070000
